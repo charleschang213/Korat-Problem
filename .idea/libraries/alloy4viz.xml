@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="alloy4viz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/alloy4viz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/alloy4viz.jar!/" />
+    </SOURCES>
+  </library>
+</component>
